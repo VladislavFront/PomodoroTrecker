@@ -1,0 +1,99 @@
+@media screen and (max-width: 650px){
+  
+  .menuSetting {
+    width: 400px;
+    height: 400px;
+  }
+
+  .buttonWwork1 {
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  
+  .buttonWwork2 {
+    margin-left: 10px;
+  }
+  
+  .buttonBreak1 {
+    margin-left: 38px;
+    margin-top: 0px;
+  }
+  
+  .buttonBreak2 {
+    margin-left: 10px;
+  }
+
+  .WorkSettingMenu {
+    margin-left: 30px;
+    margin-top: 70px;
+  }
+  
+  .BreakSettingMenu {
+    margin-left: 30px;
+    margin-top: 70px;
+  }
+
+  .minutesWorkSetting {
+    margin-left: 30px;
+  }
+  
+  .minutesBreakSetting {
+    margin-left: 25px;
+  }
+  
+  .savesSetting {
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+  
+}
+
+@media screen and (max-width: 450px){
+  
+  .menuSetting {
+    width: 300px;
+    height: 400px;
+  }
+
+  .buttonWwork1 {
+    margin-left: 10px;
+    margin-top: 0px;
+  }
+  
+  .buttonWwork2 {
+    margin-left: 10px;
+  }
+  
+  .buttonBreak1 {
+    margin-left: 10px;
+    margin-top: 0px;
+  }
+  
+  .buttonBreak2 {
+    margin-left: 10px;
+  }
+
+  .WorkSettingMenu {
+    margin-left: 10px;
+    margin-top: 70px;
+  }
+  
+  .BreakSettingMenu {
+    margin-left: 10px;
+    margin-top: 70px;
+  }
+
+  .minutesWorkSetting {
+    margin-left: 15px;
+  }
+  
+  .minutesBreakSetting {
+    margin-left: 8px;
+  }
+  
+  .savesSetting {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  
+}
